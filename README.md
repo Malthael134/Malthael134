@@ -1,10 +1,12 @@
 #  Malthael134
 
-![Malthael134's Stats](https://github-readme-stats.vercel.app/api?username=Malthael134&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
 
-![Malthael134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malthael134&theme=midnight-purple&hide_border=true)
+  ![Malthael134's Stats](https://github-readme-stats.vercel.app/api?username=Malthael134&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+  ![Malthael134's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malthael134&theme=midnight-purple&hide_border=true)
+  ![Malthael134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malthael134&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-![Malthael134's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malthael134&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+</p>
 
 <!-- https://github-readme-stats.vercel.app/ -->
 
